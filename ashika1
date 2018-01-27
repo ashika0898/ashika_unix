@@ -1,0 +1,12 @@
+1.who-lists who is logged on your machine
+2.who am i-displays our details
+3.cal-shows the calender
+4.uname-shows the user language(linux)
+5.date-prints the date
+6.ls-lists file in the current directory
+7.man-online manual about the command
+8.ls -l-long list of directories
+9.ls -a-shows hidden files
+10.ls -F-classifies the files
+11.ls -R-shows subdirectories
+12.time-prints the current time
