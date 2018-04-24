@@ -1,0 +1,8 @@
+file=$(ls -t)
+set -- $file
+if [ `$file` -eq ` ( "backup" || "backup.sh" )` ] 
+then 
+	cp -u -r $($i++) backup
+else
+cp -u -r $1 backup
+fi
